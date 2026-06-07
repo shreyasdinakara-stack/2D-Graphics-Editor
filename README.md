@@ -92,7 +92,7 @@ gcc graphics_editor.c -o graphics_editor
 
 ## Author
 
-Shreyas
+Shreyas H D
 
 ## License
 
