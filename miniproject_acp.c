@@ -141,16 +141,7 @@ int main() {
             printf("Line Drawn Successfully!\n");
         }
 
-        else if(choice == 2) {
-
-            int x1, y1, x2, y2;
-
-            printf("Enter top-left x y and bottom-right x y: ");
-            scanf("%d %d %d %d",
-                  &x1, &y1, &x2, &y2);
-
-            drawRectangle(x1, y1, x2, y2);
-            printf("Rectangle Drawn Successfully!\n");
+       
         }
 
         else if(choice == 3) {
