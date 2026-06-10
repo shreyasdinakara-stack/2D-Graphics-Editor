@@ -148,7 +148,7 @@ int main() {
               &x1, &y1, &x2, &y2);
 
         drawRectangle(x1, y1, x2, y2);
-       
+    printf("Rectangle Drawn Successfully!\n");
         }
 
         else if(choice == 3) {
